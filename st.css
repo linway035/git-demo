@@ -1,3 +1,7 @@
 body {
-  outline: solid salmon;
+  outline: solid salmon 3px;
+}
+
+h1 {
+  font-size: large;
 }
